@@ -1,0 +1,1892 @@
+[
+  {
+    "filePath": "FF7_Field_Maps_000_dummy.png",
+    "id": 0,
+    "name": "dummy.png",
+    "category": "NONE",
+    "location": "NONE"
+  },
+  {
+    "filePath": "FF7_Field_Maps_001_WM0.png",
+    "id": 1,
+    "name": "WM0.png",
+    "category": "WORLD MAP",
+    "location": "MidGAR"
+  },
+  {
+    "filePath": "FF7_Field_Maps_002_WM1.png",
+    "id": 2,
+    "name": "WM1.png",
+    "category": "WORLD MAP",
+    "location": "KALM"
+  },
+  {
+    "filePath": "FF7_Field_Maps_003_WM2.png",
+    "id": 3,
+    "name": "WM2.png",
+    "category": "WORLD MAP",
+    "location": "CHOCOBO FARM"
+  },
+  {
+    "filePath": "FF7_Field_Maps_004_WM3.png",
+    "id": 4,
+    "name": "WM3.png",
+    "category": "WORLD MAP",
+    "location": "MYTHRIL CAVES"
+  },
+  {
+    "filePath": "FF7_Field_Maps_005_WM4.png",
+    "id": 5,
+    "name": "WM4.png",
+    "category": "WORLD MAP",
+    "location": "MYTHRIL CAVES"
+  },
+  {
+    "filePath": "FF7_Field_Maps_006_WM5.png",
+    "id": 6,
+    "name": "WM5.png",
+    "category": "WORLD MAP",
+    "location": "FORT CONDOR"
+  },
+  {
+    "filePath": "FF7_Field_Maps_007_WM6.png",
+    "id": 7,
+    "name": "WM6.png",
+    "category": "WORLD MAP",
+    "location": "JUNON"
+  },
+  {
+    "filePath": "FF7_Field_Maps_008_WM7.png",
+    "id": 8,
+    "name": "WM7.png",
+    "category": "WORLD MAP",
+    "location": "TEMPLE OF THE ANCIENTS"
+  },
+  {
+    "filePath": "FF7_Field_Maps_009_WM8.png",
+    "id": 9,
+    "name": "WM8.png",
+    "category": "WORLD MAP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_010_WM9.png",
+    "id": 10,
+    "name": "WM9.png",
+    "category": "WORLD MAP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_011_WM10.png",
+    "id": 11,
+    "name": "WM10.png",
+    "category": "WORLD MAP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_012_WM11.png",
+    "id": 12,
+    "name": "WM11.png",
+    "category": "WORLD MAP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_013_WM12.png",
+    "id": 13,
+    "name": "WM12.png",
+    "category": "WORLD MAP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_014_WM13.png",
+    "id": 14,
+    "name": "WM13.png",
+    "category": "WORLD MAP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_015_WM14.png",
+    "id": 15,
+    "name": "WM14.png",
+    "category": "WORLD MAP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_016_WM15.png",
+    "id": 16,
+    "name": "WM15.png",
+    "category": "WORLD MAP",
+    "location": "GOLDEN SAUCER"
+  },
+  {
+    "filePath": "FF7_Field_Maps_017_WM16.png",
+    "id": 17,
+    "name": "WM16.png",
+    "category": "WORLD MAP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_018_WM17.png",
+    "id": 18,
+    "name": "WM17.png",
+    "category": "WORLD MAP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_019_WM18.png",
+    "id": 19,
+    "name": "WM18.png",
+    "category": "WORLD MAP",
+    "location": "COSMO CANYON"
+  },
+  {
+    "filePath": "FF7_Field_Maps_020_WM19.png",
+    "id": 20,
+    "name": "WM19.png",
+    "category": "WORLD MAP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_021_WM20.png",
+    "id": 21,
+    "name": "WM20.png",
+    "category": "WORLD MAP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_022_WM21.png",
+    "id": 22,
+    "name": "WM21.png",
+    "category": "WORLD MAP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_023_WM22.png",
+    "id": 23,
+    "name": "WM22.png",
+    "category": "WORLD MAP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_024_WM23.png",
+    "id": 24,
+    "name": "WM23.png",
+    "category": "WORLD MAP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_025_WM24.png",
+    "id": 25,
+    "name": "WM24.png",
+    "category": "WORLD MAP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_026_WM25.png",
+    "id": 26,
+    "name": "WM25.png",
+    "category": "WORLD MAP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_027_WM26.png",
+    "id": 27,
+    "name": "WM26.png",
+    "category": "WORLD MAP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_028_WM27.png",
+    "id": 28,
+    "name": "WM27.png",
+    "category": "WORLD MAP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_029_WM28.png",
+    "id": 29,
+    "name": "WM28.png",
+    "category": "WORLD MAP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_030_WM29.png",
+    "id": 30,
+    "name": "WM29.png",
+    "category": "WORLD MAP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_031_WM30.png",
+    "id": 31,
+    "name": "WM30.png",
+    "category": "UNDER WATER WM",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_032_WM31.png",
+    "id": 32,
+    "name": "WM31.png",
+    "category": "UNDER WATER WM",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_033_WM32.png",
+    "id": 33,
+    "name": "WM32.png",
+    "category": "MAP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_034_WM33.png",
+    "id": 34,
+    "name": "WM33.png",
+    "category": "MAP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_035_WM34.png",
+    "id": 35,
+    "name": "WM34.png",
+    "category": "MAP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_036_WM35.png",
+    "id": 36,
+    "name": "WM35.png",
+    "category": "MAP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_037_WM36.png",
+    "id": 37,
+    "name": "WM36.png",
+    "category": "SHIP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_038_WM37.png",
+    "id": 38,
+    "name": "WM37.png",
+    "category": "SHIP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_039_WM38.png",
+    "id": 39,
+    "name": "WM38.png",
+    "category": "SHIP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_040_WM39.png",
+    "id": 40,
+    "name": "WM39.png",
+    "category": "SHIP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_041_WM40.png",
+    "id": 41,
+    "name": "WM40.png",
+    "category": "WORLD MAP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_042_WM41.png",
+    "id": 42,
+    "name": "WM41.png",
+    "category": "WORLD MAP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_043_WM42.png",
+    "id": 43,
+    "name": "WM42.png",
+    "category": "UNDER WATER WM",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_044_WM43.png",
+    "id": 44,
+    "name": "WM43.png",
+    "category": "WORLD MAP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_045_WM44.png",
+    "id": 45,
+    "name": "WM44.png",
+    "category": "WORLD MAP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_046_WM45.png",
+    "id": 46,
+    "name": "WM45.png",
+    "category": "MAP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_047_WM46.png",
+    "id": 47,
+    "name": "WM46.png",
+    "category": "WORLD MAP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_048_WM47.png",
+    "id": 48,
+    "name": "WM47.png",
+    "category": "WORLD MAP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_049_WM48.png",
+    "id": 49,
+    "name": "WM48.png",
+    "category": "WORLD MAP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_050_WM49.png",
+    "id": 50,
+    "name": "WM49.png",
+    "category": "WORLD MAP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_051_WM50.png",
+    "id": 51,
+    "name": "WM50.png",
+    "category": "MAP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_052_WM51.png",
+    "id": 52,
+    "name": "WM51.png",
+    "category": "WEAPON WM",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_053_WM52.png",
+    "id": 53,
+    "name": "WM52.png",
+    "category": "MAP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_054_WM53.png",
+    "id": 54,
+    "name": "WM53.png",
+    "category": "MAP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_055_WM54.png",
+    "id": 55,
+    "name": "WM54.png",
+    "category": "WORLD MAP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_056_WM55.png",
+    "id": 56,
+    "name": "WM55.png",
+    "category": "WORLD MAP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_057_WM56.png",
+    "id": 57,
+    "name": "WM56.png",
+    "category": "UNDER WATER WM",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_058_WM57.png",
+    "id": 58,
+    "name": "WM57.png",
+    "category": "WORLD MAP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_059_WM58.png",
+    "id": 59,
+    "name": "WM58.png",
+    "category": "WORLD MAP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_060_WM59.png",
+    "id": 60,
+    "name": "WM59.png",
+    "category": "WORLD MAP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_061_WM60.png",
+    "id": 61,
+    "name": "WM60.png",
+    "category": "WORLD MAP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_062_WM61.png",
+    "id": 62,
+    "name": "WM61.png",
+    "category": "WORLD MAP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_063_WM62.png",
+    "id": 63,
+    "name": "WM62.png",
+    "category": "WORLD MAP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_064_WM63.png",
+    "id": 64,
+    "name": "WM63.png",
+    "category": "WORLD MAP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_065_startmap.png",
+    "id": 65,
+    "name": "startmap.png",
+    "category": "STARTUP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_066_fship_1.png",
+    "id": 66,
+    "name": "fship_1.png",
+    "category": "AIRSHIP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_067_fship_12.png",
+    "id": 67,
+    "name": "fship_12.png",
+    "category": "AIRSHIP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_068_fship_2.png",
+    "id": 68,
+    "name": "fship_2.png",
+    "category": "AIRSHIP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_069_fship_22.png",
+    "id": 69,
+    "name": "fship_22.png",
+    "category": "AIRSHIP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_070_fship_23.png",
+    "id": 70,
+    "name": "fship_23.png",
+    "category": "AIRSHIP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_071_fship_24.png",
+    "id": 71,
+    "name": "fship_24.png",
+    "category": "AIRSHIP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_072_fship_25.png",
+    "id": 72,
+    "name": "fship_25.png",
+    "category": "AIRSHIP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_073_fship_3.png",
+    "id": 73,
+    "name": "fship_3.png",
+    "category": "AIRSHIP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_074_fship_4.png",
+    "id": 74,
+    "name": "fship_4.png",
+    "category": "AIRSHIP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_075_fship_42.png",
+    "id": 75,
+    "name": "fship_42.png",
+    "category": "AIRSHIP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_076_fship_5.png",
+    "id": 76,
+    "name": "fship_5.png",
+    "category": "AIRSHIP",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_077_hill.png",
+    "id": 77,
+    "name": "hill.png",
+    "category": "AIRSHIP / HILL / KISS SCENE",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_078_zz1.png",
+    "id": 78,
+    "name": "zz1.png",
+    "category": "OPTIONAL",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_079_zz2.png",
+    "id": 79,
+    "name": "zz2.png",
+    "category": "OPTIONAL",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_080_zz3.png",
+    "id": 80,
+    "name": "zz3.png",
+    "category": "OPTIONAL",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_081_zz4.png",
+    "id": 81,
+    "name": "zz4.png",
+    "category": "OPTIONAL",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_082_zz5.png",
+    "id": 82,
+    "name": "zz5.png",
+    "category": "OPTIONAL",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_083_zz6.png",
+    "id": 83,
+    "name": "zz6.png",
+    "category": "OPTIONAL",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_084_zz7.png",
+    "id": 84,
+    "name": "zz7.png",
+    "category": "OPTIONAL",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_085_zz8.png",
+    "id": 85,
+    "name": "zz8.png",
+    "category": "OPTIONAL",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_086_sea.png",
+    "id": 86,
+    "name": "sea.png",
+    "category": "TINY BRONCO",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_087_sky.png",
+    "id": 87,
+    "name": "sky.png",
+    "category": "TINY BRONCO",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_088_q_1 (qa).png",
+    "id": 88,
+    "name": "q_1 (qa).png",
+    "category": "GELNIKA",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_089_q_2 (qb).png",
+    "id": 89,
+    "name": "q_2 (qb).png",
+    "category": "GELNIKA",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_090_q_3 (qc).png",
+    "id": 90,
+    "name": "q_3 (qc).png",
+    "category": "GELNIKA",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_091_q_4 (qd).png",
+    "id": 91,
+    "name": "q_4 (qd).png",
+    "category": "GELNIKA",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_092_q_5 (qe).png",
+    "id": 92,
+    "name": "q_5 (qe).png",
+    "category": "BLACK SCREEN",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_093_blackbg1.png",
+    "id": 93,
+    "name": "blackbg1.png",
+    "category": "DEBUG CHARACTERS",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_094_blackbg2.png",
+    "id": 94,
+    "name": "blackbg2.png",
+    "category": "DEBUG CHARACTERS",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_095_blackbg3.png",
+    "id": 95,
+    "name": "blackbg3.png",
+    "category": "DEBUG CHARACTERS",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_096_blackbg4.png",
+    "id": 96,
+    "name": "blackbg4.png",
+    "category": "DEBUG CHARACTERS",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_097_blackbg5.png",
+    "id": 97,
+    "name": "blackbg5.png",
+    "category": "DEBUG CHARACTERS",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_098_blackbg6.png",
+    "id": 98,
+    "name": "blackbg6.png",
+    "category": "DEBUG CHARACTERS",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_099_blackbg7.png",
+    "id": 99,
+    "name": "blackbg7.png",
+    "category": "DEBUG CHARACTERS",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_100_blackbg8.png",
+    "id": 100,
+    "name": "blackbg8.png",
+    "category": "DEBUG CHARACTERS",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_101_blackbg9.png",
+    "id": 101,
+    "name": "blackbg9.png",
+    "category": "BLACK SCREEN",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_102_blackbga.png",
+    "id": 102,
+    "name": "blackbga.png",
+    "category": "DEBUG CHARACTERS",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_103_blackbgb.png",
+    "id": 103,
+    "name": "blackbgb.png",
+    "category": "BLACK SCREEN",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_104_blackbgc.png",
+    "id": 104,
+    "name": "blackbgc.png",
+    "category": "BLACK SCREEN",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_105_blackbgd.png",
+    "id": 105,
+    "name": "blackbgd.png",
+    "category": "BLACK SCREEN",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_106_blackbge.png",
+    "id": 106,
+    "name": "blackbge.png",
+    "category": "BLACK SCREEN",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_107_blackbgf.png",
+    "id": 107,
+    "name": "blackbgf.png",
+    "category": "BLACK SCREEN",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_108_blackbgg.png",
+    "id": 108,
+    "name": "blackbgg.png",
+    "category": "BLACK SCREEN",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_109_blackbgh.png",
+    "id": 109,
+    "name": "blackbgh.png",
+    "category": "BLACK SCREEN",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_110_blackbgi.png",
+    "id": 110,
+    "name": "blackbgi.png",
+    "category": "DEBUG CHARACTERS",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_111_blackbgj.png",
+    "id": 111,
+    "name": "blackbgj.png",
+    "category": "BLACK SCREEN",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_112_blackbgk.png",
+    "id": 112,
+    "name": "blackbgk.png",
+    "category": "DEBUG CHARACTERS",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_113_whitebg1.png",
+    "id": 113,
+    "name": "whitebg1.png",
+    "category": "WHITE BG",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_114_whitebg2.png",
+    "id": 114,
+    "name": "whitebg2.png",
+    "category": "WHITE BG",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_115_whitebg3.png",
+    "id": 115,
+    "name": "whitebg3.png",
+    "category": "WHITE BG",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_116_md1stin.png",
+    "id": 116,
+    "name": "md1stin.png",
+    "category": "MAKO REACTOR 1",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_117_md1_1.png",
+    "id": 117,
+    "name": "md1_1.png",
+    "category": "MAKO REACTOR 1",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_118_md1_2.png",
+    "id": 118,
+    "name": "md1_2.png",
+    "category": "MAKO REACTOR 1",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_119_nrthmk.png",
+    "id": 119,
+    "name": "nrthmk.png",
+    "category": "MAKO REACTOR 1",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_120_nmkin_1.png",
+    "id": 120,
+    "name": "nmkin_1.png",
+    "category": "MAKO REACTOR 1",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_121_elevtr1.png",
+    "id": 121,
+    "name": "elevtr1.png",
+    "category": "MAKO REACTOR 1",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_122_nmkin_2.png",
+    "id": 122,
+    "name": "nmkin_2.png",
+    "category": "MAKO REACTOR 1",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_123_nmkin_3.png",
+    "id": 123,
+    "name": "nmkin_3.png",
+    "category": "MAKO REACTOR 1",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_124_nmkin_4.png",
+    "id": 124,
+    "name": "nmkin_4.png",
+    "category": "MAKO REACTOR 1",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_125_nmkin_5.png",
+    "id": 125,
+    "name": "nmkin_5.png",
+    "category": "MAKO REACTOR 1",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_126_southmk1.png",
+    "id": 126,
+    "name": "southmk1.png",
+    "category": "MAKO REACTOR 1",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_127_southmk2.png",
+    "id": 127,
+    "name": "southmk2.png",
+    "category": "MAKO REACTOR 1",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_128_smkin_1.png",
+    "id": 128,
+    "name": "smkin_1.png",
+    "category": "MAKO REACTOR 1",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_129_smkin_2.png",
+    "id": 129,
+    "name": "smkin_2.png",
+    "category": "MAKO REACTOR 1",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_130_smkin_3.png",
+    "id": 130,
+    "name": "smkin_3.png",
+    "category": "MAKO REACTOR 1",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_131_smkin_4.png",
+    "id": 131,
+    "name": "smkin_4.png",
+    "category": "MAKO REACTOR 1",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_132_smkin_5.png",
+    "id": 132,
+    "name": "smkin_5.png",
+    "category": "MAKO REACTOR 1",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_133_md8_1.png",
+    "id": 133,
+    "name": "md8_1.png",
+    "category": "MAKO REACTOR 1",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_134_md8_3.png",
+    "id": 134,
+    "name": "md8_3.png",
+    "category": "SECTOR 8 (UPPER)",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_134_md8_2.png",
+    "id": 134,
+    "name": "md8_2.png",
+    "category": "SECTOR 8 (UPPER)",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_136_md8_4.png",
+    "id": 136,
+    "name": "md8_4.png",
+    "category": "MAKO REACTOR 1",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_137_md8brdg.png",
+    "id": 137,
+    "name": "md8brdg.png",
+    "category": "UPPER PLATE",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_138_cargoin.png",
+    "id": 138,
+    "name": "cargoin.png",
+    "category": "MidGAR TRAIN",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_139_tin_1.png",
+    "id": 139,
+    "name": "tin_1.png",
+    "category": "MidGAR TRAIN",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_140_tin_2.png",
+    "id": 140,
+    "name": "tin_2.png",
+    "category": "MidGAR TRAIN",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_141_tin_3.png",
+    "id": 141,
+    "name": "tin_3.png",
+    "category": "MidGAR TRAIN",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_142_tin_4.png",
+    "id": 142,
+    "name": "tin_4.png",
+    "category": "MidGAR TRAIN",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_143_rootmap.png",
+    "id": 143,
+    "name": "rootmap.png",
+    "category": "MidGAR TRAIN",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_144_mds7st1.png",
+    "id": 144,
+    "name": "mds7st1.png",
+    "category": "TRAIN STATION/GRAVEYARD",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_145_mds7st2.png",
+    "id": 145,
+    "name": "mds7st2.png",
+    "category": "TRAIN STATION/GRAVEYARD",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_146_mds7st3.png",
+    "id": 146,
+    "name": "mds7st3.png",
+    "category": "TRAIN STATION/GRAVEYARD",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_147_mds7st32.png",
+    "id": 147,
+    "name": "mds7st32.png",
+    "category": "TRAIN STATION/GRAVEYARD",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_148_mds7_w1.png",
+    "id": 148,
+    "name": "mds7_w1.png",
+    "category": "SECTOR 7",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_149_mds7_w2.png",
+    "id": 149,
+    "name": "mds7_w2.png",
+    "category": "SECTOR 7",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_150_mds7_w3.png",
+    "id": 150,
+    "name": "mds7_w3.png",
+    "category": "SECTOR 7",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_151_mds7.png",
+    "id": 151,
+    "name": "mds7.png",
+    "category": "SECTOR 7",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_152_mds7_im.png",
+    "id": 152,
+    "name": "mds7_im.png",
+    "category": "SECTOR 7",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_153_7min1 (min71).png",
+    "id": 153,
+    "name": "7min1 (min71).png",
+    "category": "SECTOR 7",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_154_mds7pb_1.png",
+    "id": 154,
+    "name": "mds7pb_1.png",
+    "category": "SECTOR 7",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_155_mds7pb_2.png",
+    "id": 155,
+    "name": "mds7pb_2.png",
+    "category": "SECTOR 7",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_156_mds7plr1.png",
+    "id": 156,
+    "name": "mds7plr1.png",
+    "category": "SECTOR 7",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_157_mds7plr2.png",
+    "id": 157,
+    "name": "mds7plr2.png",
+    "category": "SECTOR 7",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_158_pillar_1.png",
+    "id": 158,
+    "name": "pillar_1.png",
+    "category": "SECTOR 7",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_159_pillar_2.png",
+    "id": 159,
+    "name": "pillar_2.png",
+    "category": "SECTOR 7",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_160_pillar_3.png",
+    "id": 160,
+    "name": "pillar_3.png",
+    "category": "SECTOR 7",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_161_tunnel_1.png",
+    "id": 161,
+    "name": "tunnel_1.png",
+    "category": "Corkscrew Tunnel",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_162_tunnel_2.png",
+    "id": 162,
+    "name": "tunnel_2.png",
+    "category": "SECTOR 7",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_163_tunnel_3.png",
+    "id": 163,
+    "name": "tunnel_3.png",
+    "category": "SECTOR 7",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_164_4sbwy_1 (sbwy4_1).png",
+    "id": 164,
+    "name": "4sbwy_1 (sbwy4_1).png",
+    "category": "SECTOR 4 PLATE",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_165_4sbwy_2 (sbwy4_2).png",
+    "id": 165,
+    "name": "4sbwy_2 (sbwy4_2).png",
+    "category": "SECTOR 4 PLATE",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_166_4sbwy_3 (sbwy4_3).png",
+    "id": 166,
+    "name": "4sbwy_3 (sbwy4_3).png",
+    "category": "SECTOR 4 PLATE",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_167_4sbwy_4 (sbwy4_4).png",
+    "id": 167,
+    "name": "4sbwy_4 (sbwy4_4).png",
+    "category": "SECTOR 4 PLATE",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_168_4sbwy_5 (sbwy4_5).png",
+    "id": 168,
+    "name": "4sbwy_5 (sbwy4_5).png",
+    "category": "SECTOR 4 PLATE",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_169_4sbwy_6 (sbwy4_6).png",
+    "id": 169,
+    "name": "4sbwy_6 (sbwy4_6).png",
+    "category": "SECTOR 4 PLATE",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_170_mds5_5.png",
+    "id": 170,
+    "name": "mds5_5.png",
+    "category": "SECTOR 5",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_171_mds5_4.png",
+    "id": 171,
+    "name": "mds5_4.png",
+    "category": "SECTOR 5",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_172_mds5_3.png",
+    "id": 172,
+    "name": "mds5_3.png",
+    "category": "SECTOR 5",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_173_mds5_2.png",
+    "id": 173,
+    "name": "mds5_2.png",
+    "category": "SECTOR 5",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_174_5min1_1 (min51_1).png",
+    "id": 174,
+    "name": "5min1_1 (min51_1).png",
+    "category": "SECTOR 5",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_175_5min1_2 (min51_2).png",
+    "id": 175,
+    "name": "5min1_2 (min51_2).png",
+    "category": "SECTOR 5",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_176_mds5_dk.png",
+    "id": 176,
+    "name": "mds5_dk.png",
+    "category": "SECTOR 5",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_177_mds5_1.png",
+    "id": 177,
+    "name": "mds5_1.png",
+    "category": "SECTOR 5",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_178_mds5_w.png",
+    "id": 178,
+    "name": "mds5_w.png",
+    "category": "SECTOR 5",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_179_mds5_i.png",
+    "id": 179,
+    "name": "mds5_i.png",
+    "category": "SECTOR 5",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_180_mds5_m.png",
+    "id": 180,
+    "name": "mds5_m.png",
+    "category": "SECTOR 5",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_181_church.png",
+    "id": 181,
+    "name": "church.png",
+    "category": "SECTOR 5",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_182_chrin_1a.png",
+    "id": 182,
+    "name": "chrin_1a.png",
+    "category": "SECTOR 5",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_183_chrin_1b.png",
+    "id": 183,
+    "name": "chrin_1b.png",
+    "category": "SECTOR 5",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_184_chrin_2.png",
+    "id": 184,
+    "name": "chrin_2.png",
+    "category": "SECTOR 5",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_185_chrin_3a.png",
+    "id": 185,
+    "name": "chrin_3a.png",
+    "category": "SECTOR 5",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_186_chrin_3b.png",
+    "id": 186,
+    "name": "chrin_3b.png",
+    "category": "SECTOR 5",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_187_eals_1.png",
+    "id": 187,
+    "name": "eals_1.png",
+    "category": "SECTOR 5",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_188_ealin_1.png",
+    "id": 188,
+    "name": "ealin_1.png",
+    "category": "SECTOR 5",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_189_ealin_12.png",
+    "id": 189,
+    "name": "ealin_12.png",
+    "category": "SECTOR 5",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_190_ealin_2.png",
+    "id": 190,
+    "name": "ealin_2.png",
+    "category": "SECTOR 5",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_191_mds6_1.png",
+    "id": 191,
+    "name": "mds6_1.png",
+    "category": "SECTOR 6",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_192_mds6_2.png",
+    "id": 192,
+    "name": "mds6_2.png",
+    "category": "SECTOR 6",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_193_mds6_22.png",
+    "id": 193,
+    "name": "mds6_22.png",
+    "category": "SECTOR 6",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_194_mds6_3.png",
+    "id": 194,
+    "name": "mds6_3.png",
+    "category": "SECTOR 6",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_195_mrkt2.png",
+    "id": 195,
+    "name": "mrkt2.png",
+    "category": "SECTOR 6",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_196_mkt_w.png",
+    "id": 196,
+    "name": "mkt_w.png",
+    "category": "SECTOR 6",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_197_mkt_mens.png",
+    "id": 197,
+    "name": "mkt_mens.png",
+    "category": "SECTOR 6",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_198_mkt_ia.png",
+    "id": 198,
+    "name": "mkt_ia.png",
+    "category": "SECTOR 6",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_199_mktinn.png",
+    "id": 199,
+    "name": "mktinn.png",
+    "category": "SECTOR 6",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_200_mkt_m.png",
+    "id": 200,
+    "name": "mkt_m.png",
+    "category": "SECTOR 6",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_201_mkt_s1.png",
+    "id": 201,
+    "name": "mkt_s1.png",
+    "category": "SECTOR 6",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_202_mkt_s2.png",
+    "id": 202,
+    "name": "mkt_s2.png",
+    "category": "SECTOR 6",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_203_mkt_s3.png",
+    "id": 203,
+    "name": "mkt_s3.png",
+    "category": "SECTOR 6",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_204_mktpb.png",
+    "id": 204,
+    "name": "mktpb.png",
+    "category": "SECTOR 6",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_205_mrkt1.png",
+    "id": 205,
+    "name": "mrkt1.png",
+    "category": "SECTOR 6",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_206_colne_1.png",
+    "id": 206,
+    "name": "colne_1.png",
+    "category": "SECTOR 6",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_207_colne_2.png",
+    "id": 207,
+    "name": "colne_2.png",
+    "category": "SECTOR 6",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_208_colne_3.png",
+    "id": 208,
+    "name": "colne_3.png",
+    "category": "SECTOR 6",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_209_colne_4.png",
+    "id": 209,
+    "name": "colne_4.png",
+    "category": "SECTOR 6",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_210_colne_5.png",
+    "id": 210,
+    "name": "colne_5.png",
+    "category": "SECTOR 6",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_211_colne_6.png",
+    "id": 211,
+    "name": "colne_6.png",
+    "category": "SECTOR 6",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_212_colne_b1.png",
+    "id": 212,
+    "name": "colne_b1.png",
+    "category": "SECTOR 6",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_213_colne_b3.png",
+    "id": 213,
+    "name": "colne_b3.png",
+    "category": "SECTOR 6",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_214_mrkt3.png",
+    "id": 214,
+    "name": "mrkt3.png",
+    "category": "SECTOR 6",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_215_onna_1.png",
+    "id": 215,
+    "name": "onna_1.png",
+    "category": "SECTOR 6",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_216_onna_2.png",
+    "id": 216,
+    "name": "onna_2.png",
+    "category": "SECTOR 6",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_217_onna_3.png",
+    "id": 217,
+    "name": "onna_3.png",
+    "category": "SECTOR 6",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_218_onna_4.png",
+    "id": 218,
+    "name": "onna_4.png",
+    "category": "SECTOR 6",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_219_onna_5.png",
+    "id": 219,
+    "name": "onna_5.png",
+    "category": "SECTOR 6",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_220_onna_52.png",
+    "id": 220,
+    "name": "onna_52.png",
+    "category": "SECTOR 6",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_221_onna_6.png",
+    "id": 221,
+    "name": "onna_6.png",
+    "category": "SECTOR 6",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_222_mrkt4.png",
+    "id": 222,
+    "name": "mrkt4.png",
+    "category": "SECTOR 6",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_223_wcrimb_1.png",
+    "id": 223,
+    "name": "wcrimb_1.png",
+    "category": "WALL CLIMB",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_224_wcrimb_2.png",
+    "id": 224,
+    "name": "wcrimb_2.png",
+    "category": "WALL CLIMB",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_225_md0.png",
+    "id": 225,
+    "name": "md0.png",
+    "category": "SHINRA HQ",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_226_roadend.png",
+    "id": 226,
+    "name": "roadend.png",
+    "category": "SHINRA HQ",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_227_sinbil_1.png",
+    "id": 227,
+    "name": "sinbil_1.png",
+    "category": "SHINRA HQ",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_228_sinbil_2.png",
+    "id": 228,
+    "name": "sinbil_2.png",
+    "category": "SHINRA HQ",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_229_blinst_1.png",
+    "id": 229,
+    "name": "blinst_1.png",
+    "category": "SHINRA HQ",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_230_blinst_2.png",
+    "id": 230,
+    "name": "blinst_2.png",
+    "category": "SHINRA HQ",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_231_blinst_3.png",
+    "id": 231,
+    "name": "blinst_3.png",
+    "category": "SHINRA HQ",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_232_blinele.png",
+    "id": 232,
+    "name": "blinele.png",
+    "category": "SHINRA HQ",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_233_eleout.png",
+    "id": 233,
+    "name": "eleout.png",
+    "category": "SHINRA HQ",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_234_blin1.png",
+    "id": 234,
+    "name": "blin1.png",
+    "category": "SHINRA HQ",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_235_blin2.png",
+    "id": 235,
+    "name": "blin2.png",
+    "category": "SHINRA HQ",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_236_blin2_i.png",
+    "id": 236,
+    "name": "blin2_i.png",
+    "category": "SHINRA HQ",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_237_blin3_1.png",
+    "id": 237,
+    "name": "blin3_1.png",
+    "category": "SHINRA HQ",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_238_blin59.png",
+    "id": 238,
+    "name": "blin59.png",
+    "category": "SHINRA HQ",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_239_blin60_1.png",
+    "id": 239,
+    "name": "blin60_1.png",
+    "category": "SHINRA HQ",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_240_blin60_2.png",
+    "id": 240,
+    "name": "blin60_2.png",
+    "category": "SHINRA HQ",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_241_blin61.png",
+    "id": 241,
+    "name": "blin61.png",
+    "category": "SHINRA HQ",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_242_blin62_1.png",
+    "id": 242,
+    "name": "blin62_1.png",
+    "category": "SHINRA HQ",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_243_blin62_2.png",
+    "id": 243,
+    "name": "blin62_2.png",
+    "category": "SHINRA HQ",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_244_blin62_3.png",
+    "id": 244,
+    "name": "blin62_3.png",
+    "category": "SHINRA HQ",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_245_blin63_1.png",
+    "id": 245,
+    "name": "blin63_1.png",
+    "category": "SHINRA HQ",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_246_blin63_t.png",
+    "id": 246,
+    "name": "blin63_t.png",
+    "category": "SHINRA HQ",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_247_blin64.png",
+    "id": 247,
+    "name": "blin64.png",
+    "category": "SHINRA HQ",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_248_blin65_1.png",
+    "id": 248,
+    "name": "blin65_1.png",
+    "category": "SHINRA HQ",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_249_blin65_2.png",
+    "id": 249,
+    "name": "blin65_2.png",
+    "category": "SHINRA HQ",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_250_blin66_1.png",
+    "id": 250,
+    "name": "blin66_1.png",
+    "category": "SHINRA HQ",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_251_blin66_2.png",
+    "id": 251,
+    "name": "blin66_2.png",
+    "category": "SHINRA HQ",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_252_blin66_3.png",
+    "id": 252,
+    "name": "blin66_3.png",
+    "category": "SHINRA HQ",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_253_blin66_4.png",
+    "id": 253,
+    "name": "blin66_4.png",
+    "category": "SHINRA HQ",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_254_blin66_5.png",
+    "id": 254,
+    "name": "blin66_5.png",
+    "category": "SHINRA HQ",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_255_blin66_6.png",
+    "id": 255,
+    "name": "blin66_6.png",
+    "category": "SHINRA HQ",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_256_blin67_1.png",
+    "id": 256,
+    "name": "blin67_1.png",
+    "category": "SHINRA HQ",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_257_blin671b.png",
+    "id": 257,
+    "name": "blin671b.png",
+    "category": "SHINRA HQ",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_258_blin67_2.png",
+    "id": 258,
+    "name": "blin67_2.png",
+    "category": "SHINRA HQ",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_259_blin67_3.png",
+    "id": 259,
+    "name": "blin67_3.png",
+    "category": "SHINRA HQ",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_260_blin673b.png",
+    "id": 260,
+    "name": "blin673b.png",
+    "category": "SHINRA HQ",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_261_blin67_4.png",
+    "id": 261,
+    "name": "blin67_4.png",
+    "category": "JENOVA",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_262_blin68_1.png",
+    "id": 262,
+    "name": "blin68_1.png",
+    "category": "SHINRA HQ",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_263_blin68_2.png",
+    "id": 263,
+    "name": "blin68_2.png",
+    "category": "SHINRA HQ",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_264_blin69_1.png",
+    "id": 264,
+    "name": "blin69_1.png",
+    "category": "SHINRA HQ",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_265_blin69_2.png",
+    "id": 265,
+    "name": "blin69_2.png",
+    "category": "SHINRA HQ",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_266_blin70_1.png",
+    "id": 266,
+    "name": "blin70_1.png",
+    "category": "SHINRA HQ",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_267_blin70_2.png",
+    "id": 267,
+    "name": "blin70_2.png",
+    "category": "SHINRA HQ",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_268_blin70_3.png",
+    "id": 268,
+    "name": "blin70_3.png",
+    "category": "SHINRA HQ",
+    "location": ""
+  },
+  {
+    "filePath": "FF7_Field_Maps_269_blin70_4.png",
+    "id": 269,
+    "name": "blin70_4.png",
+    "category": "SHINRA HQ",
+    "location": ""
+  }
+]
